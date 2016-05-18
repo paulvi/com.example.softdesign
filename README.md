@@ -1,5 +1,5 @@
 
-# Software Design and DDD(Domain Driven Design)
+# Software Design and DDD (Domain Driven Design)
 
 领域驱动设计 
 
@@ -15,4 +15,5 @@
 - https://en.wikipedia.org/wiki/Domain-driven_design
 - http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215 
 - https://github.com/citerus/dddsample-core 
+- http://martinfowler.com/bliki/AnemicDomainModel.html
 
